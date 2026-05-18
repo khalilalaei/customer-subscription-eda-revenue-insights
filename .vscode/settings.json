@@ -5,5 +5,14 @@
         "*.csv": "duckdb.dataFileViewer",
         "*.tsv": "duckdb.dataFileViewer",
         "*.xlsx": "duckdb.dataFileViewer"
-    }
+    },
+    "duckdb.databases": [
+        {
+            "alias": "customer_churn",
+            "type": "file",
+            "path": "c:\\Users\\khali\\OneDrive\\Documents\\GitHub\\customer-subscription-eda-revenue-insights\\data\\processed\\customer_churn.duckdb",
+            "attached": true
+        }
+    ],
+    "duckdb.defaultDatabase": "customer_churn"
 }
