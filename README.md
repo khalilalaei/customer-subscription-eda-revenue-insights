@@ -37,6 +37,28 @@ The goal is to simulate a realistic data analyst workflow using Python, SQL, Exc
 
 This project uses a customer subscription churn dataset containing customer demographics, account information, services, billing details, and churn status.
 
-## Status
+## Current Status
 
-In progress.
+Completed:
+
+1. Data cleaning
+2. Exploratory data analysis
+3. SQL validation and business queries
+
+In progress / next steps:
+
+1. Build Excel validation workbook
+2. Plan Tableau or Power BI dashboard
+3. Write final business recommendations
+4. Add dashboard screenshots
+5. Finalize resume bullets
+
+## SQL Analysis
+
+SQL queries are included in the `sql/` folder:
+
+- `churn_analysis.sql`
+- `revenue_analysis.sql`
+- `customer_segments.sql`
+
+These queries validate the Python analysis and analyze churn rates, revenue risk, customer segments, and high-risk customer groups.

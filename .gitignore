@@ -16,3 +16,7 @@ Thumbs.db
 
 # Compressed downloads
 *.zip
+
+# DuckDB database files
+*.duckdb
+*.duckdb.wal
