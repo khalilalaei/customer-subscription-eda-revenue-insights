@@ -20,3 +20,6 @@ Thumbs.db
 # DuckDB database files
 *.duckdb
 *.duckdb.wal
+
+# Excel temporary files
+~$*.xlsx
