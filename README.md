@@ -415,11 +415,6 @@ Completed:
 5. Tableau dashboard
 6. Final business insights report
 
-Next steps:
-
-1. Finalize resume bullets
-2. Polish GitHub presentation
-
 ## How to Reproduce
 
 Install the required Python packages:
